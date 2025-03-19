@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [None](None)
 
-- 💬 Ask me about **I will ask you guys, there are alot of thing I still don't know**
+- 💬 Ask me about **I will ask you guys, there are a lot of thing I still don't know**
 
 - 📫 How to reach me **ramdev4559@gmail.com**
 
