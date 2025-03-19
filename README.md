@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Xyp1ce</h1>
+<h3 align="center">A passionate Software Engineering student</h3>
 
-<!--
-**Xyp1ce/Xyp1ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **😭**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **C and Python Courses**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **😭**
+
+- 🤝 I’m looking for help with **Anything I know (not that much)**
+
+- 👨‍💻 All of my projects are available at **There's no projects yet 😭**
+
+- 📝 I regularly write articles on [None](None)
+
+- 💬 Ask me about **I will ask you guys, there are alot of thing I still don't know**
+
+- 📫 How to reach me **ramdev4559@gmail.com**
+
+- 📄 Know about my experiences **[Not yet, I'm still a student]**
+
+- ⚡ Fun fact **I really like Hoshimi Miyabi 💕**
+
+
+![Hoshimi](https://github.com/user-attachments/assets/e3833857-a70d-49b1-afc6-c982570e80b7)
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
