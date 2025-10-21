@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xyp1ce</h1>
 <h3 align="center">A passionate Software Engineering student</h3>
 
-- 🔭 I’m currently working on **😭**
-
-- 🌱 I’m currently learning **C and Python Courses**
-
-- 👯 I’m looking to collaborate on **😭**
+- 🌱 I’m currently learning **C, Java and Python Courses**
 
 - 🤝 I’m looking for help with **Anything I know (not that much)**
-
-- 👨‍💻 All of my projects are available at **There's no projects yet 😭**
-
-- 📝 I regularly write articles on [None](None)
 
 - 💬 Ask me about **I will ask you guys, there are a lot of thing I still don't know**
 
@@ -20,7 +12,6 @@
 - 📄 Know about my experiences **[Not yet, I'm still a student]**
 
 - ⚡ Fun fact **I really like Hoshimi Miyabi 💕**
-
 
 ![Hoshimi](https://github.com/user-attachments/assets/e3833857-a70d-49b1-afc6-c982570e80b7)
 
